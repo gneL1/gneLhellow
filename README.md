@@ -1,5 +1,2 @@
 # gneLhellow
-emmm,just test
-czxcxzc
-
-123321
+emmm,just test something.
